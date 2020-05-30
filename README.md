@@ -1,8 +1,8 @@
 DOCUMENTATION::
 **************************************************************BRIEF**************************************************************************
 Author:
-            Abhimanyu Gupta (https://github.com/Abhimanyu-Gupta23/)
-            https://github.com/Abhimanyu-Gupta23/Booth_Multiplication/
+            Abhimanyu Gupta (https://github.com/0deadLock0/)
+            https://github.com/0deadLock0/Booth_Multiplication/
 Functionality:
         Multiply two Decimal numbers (base 10) in their binary forms using Booth's Method of  Multiplication
 Purpose:
